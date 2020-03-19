@@ -1,0 +1,8 @@
+/Users/yuriy-shpak/Projects/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1_DLL/bin/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork1_DLL.deps.json
+/Users/yuriy-shpak/Projects/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1_DLL/bin/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork1_DLL.dll
+/Users/yuriy-shpak/Projects/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1_DLL/bin/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork1_DLL.pdb
+/Users/yuriy-shpak/Projects/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork1_DLL.csprojAssemblyReference.cache
+/Users/yuriy-shpak/Projects/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork1_DLL.AssemblyInfoInputs.cache
+/Users/yuriy-shpak/Projects/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork1_DLL.AssemblyInfo.cs
+/Users/yuriy-shpak/Projects/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork1_DLL.dll
+/Users/yuriy-shpak/Projects/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork1_DLL.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "square_matrix/1.0.0": {
+        "dependencies": {
+          "SquareMatrixLibrary": "1.0.0"
+        },
+        "runtime": {
+          "square_matrix.dll": {}
+        }
+      },
+      "SquareMatrixLibrary/1.0.0": {
+        "runtime": {
+          "SquareMatrixLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "square_matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SquareMatrixLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

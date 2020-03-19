@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3EAB97B9-93D0-4DE2-B800-67CE55009A89}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="accounting_system/Program.cs">
+    <Files>
+      <File FileName="accounting_system/Program.cs" Line="4" Column="7" />
+      <File FileName="LaptopLibrary/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="accounting_system" expanded="True">
+            <Node name="accounting_system" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="LaptopLibrary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LaptopLibrary FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.accounting__system PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

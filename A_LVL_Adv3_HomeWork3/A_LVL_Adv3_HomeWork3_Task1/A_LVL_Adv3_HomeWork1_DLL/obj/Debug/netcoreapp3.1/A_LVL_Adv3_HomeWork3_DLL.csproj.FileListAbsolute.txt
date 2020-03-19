@@ -1,0 +1,16 @@
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/bin/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.deps.json
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/bin/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.dll
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/bin/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.pdb
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.csprojAssemblyReference.cache
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.AssemblyInfoInputs.cache
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.AssemblyInfo.cs
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.dll
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.pdb
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3_Task1/A_LVL_Adv3_HomeWork1_DLL/bin/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.deps.json
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3_Task1/A_LVL_Adv3_HomeWork1_DLL/bin/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.dll
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3_Task1/A_LVL_Adv3_HomeWork1_DLL/bin/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.pdb
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3_Task1/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.csprojAssemblyReference.cache
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3_Task1/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.AssemblyInfoInputs.cache
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3_Task1/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.AssemblyInfo.cs
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3_Task1/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.dll
+/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3_Task1/A_LVL_Adv3_HomeWork1_DLL/obj/Debug/netcoreapp3.1/A_LVL_Adv3_HomeWork3_DLL.pdb

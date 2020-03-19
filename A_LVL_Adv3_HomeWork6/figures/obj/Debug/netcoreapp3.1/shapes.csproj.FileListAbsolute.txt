@@ -1,0 +1,10 @@
+/Users/yuriy/Projects/figures/figures/bin/Debug/netcoreapp3.1/shapes.deps.json
+/Users/yuriy/Projects/figures/figures/bin/Debug/netcoreapp3.1/shapes.runtimeconfig.json
+/Users/yuriy/Projects/figures/figures/bin/Debug/netcoreapp3.1/shapes.runtimeconfig.dev.json
+/Users/yuriy/Projects/figures/figures/bin/Debug/netcoreapp3.1/shapes.dll
+/Users/yuriy/Projects/figures/figures/bin/Debug/netcoreapp3.1/shapes.pdb
+/Users/yuriy/Projects/figures/figures/obj/Debug/netcoreapp3.1/shapes.csprojAssemblyReference.cache
+/Users/yuriy/Projects/figures/figures/obj/Debug/netcoreapp3.1/shapes.AssemblyInfoInputs.cache
+/Users/yuriy/Projects/figures/figures/obj/Debug/netcoreapp3.1/shapes.AssemblyInfo.cs
+/Users/yuriy/Projects/figures/figures/obj/Debug/netcoreapp3.1/shapes.dll
+/Users/yuriy/Projects/figures/figures/obj/Debug/netcoreapp3.1/shapes.pdb

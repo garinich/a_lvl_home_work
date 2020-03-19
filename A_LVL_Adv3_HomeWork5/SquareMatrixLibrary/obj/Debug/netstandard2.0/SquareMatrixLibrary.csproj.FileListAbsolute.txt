@@ -1,0 +1,8 @@
+/Users/yuriy/Projects/square_matrix/SquareMatrixLibrary/bin/Debug/netstandard2.0/SquareMatrixLibrary.deps.json
+/Users/yuriy/Projects/square_matrix/SquareMatrixLibrary/bin/Debug/netstandard2.0/SquareMatrixLibrary.dll
+/Users/yuriy/Projects/square_matrix/SquareMatrixLibrary/bin/Debug/netstandard2.0/SquareMatrixLibrary.pdb
+/Users/yuriy/Projects/square_matrix/SquareMatrixLibrary/obj/Debug/netstandard2.0/SquareMatrixLibrary.csprojAssemblyReference.cache
+/Users/yuriy/Projects/square_matrix/SquareMatrixLibrary/obj/Debug/netstandard2.0/SquareMatrixLibrary.AssemblyInfoInputs.cache
+/Users/yuriy/Projects/square_matrix/SquareMatrixLibrary/obj/Debug/netstandard2.0/SquareMatrixLibrary.AssemblyInfo.cs
+/Users/yuriy/Projects/square_matrix/SquareMatrixLibrary/obj/Debug/netstandard2.0/SquareMatrixLibrary.dll
+/Users/yuriy/Projects/square_matrix/SquareMatrixLibrary/obj/Debug/netstandard2.0/SquareMatrixLibrary.pdb

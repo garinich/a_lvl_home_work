@@ -1,0 +1,13 @@
+/Users/yuriy/Projects/accounting_system/accounting_system/obj/Debug/netcoreapp3.1/accounting_system.csprojAssemblyReference.cache
+/Users/yuriy/Projects/accounting_system/accounting_system/obj/Debug/netcoreapp3.1/accounting_system.AssemblyInfoInputs.cache
+/Users/yuriy/Projects/accounting_system/accounting_system/obj/Debug/netcoreapp3.1/accounting_system.AssemblyInfo.cs
+/Users/yuriy/Projects/accounting_system/accounting_system/bin/Debug/netcoreapp3.1/accounting_system.deps.json
+/Users/yuriy/Projects/accounting_system/accounting_system/bin/Debug/netcoreapp3.1/accounting_system.runtimeconfig.json
+/Users/yuriy/Projects/accounting_system/accounting_system/bin/Debug/netcoreapp3.1/accounting_system.runtimeconfig.dev.json
+/Users/yuriy/Projects/accounting_system/accounting_system/bin/Debug/netcoreapp3.1/accounting_system.dll
+/Users/yuriy/Projects/accounting_system/accounting_system/bin/Debug/netcoreapp3.1/accounting_system.pdb
+/Users/yuriy/Projects/accounting_system/accounting_system/obj/Debug/netcoreapp3.1/accounting_system.dll
+/Users/yuriy/Projects/accounting_system/accounting_system/obj/Debug/netcoreapp3.1/accounting_system.pdb
+/Users/yuriy/Projects/accounting_system/accounting_system/bin/Debug/netcoreapp3.1/LaptopLibrary.dll
+/Users/yuriy/Projects/accounting_system/accounting_system/bin/Debug/netcoreapp3.1/LaptopLibrary.pdb
+/Users/yuriy/Projects/accounting_system/accounting_system/obj/Debug/netcoreapp3.1/accounting_system.csproj.CopyComplete

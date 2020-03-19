@@ -1,0 +1,8 @@
+/Users/yuriy/Projects/accounting_system/LaptopLibrary/bin/Debug/netstandard2.0/LaptopLibrary.deps.json
+/Users/yuriy/Projects/accounting_system/LaptopLibrary/bin/Debug/netstandard2.0/LaptopLibrary.dll
+/Users/yuriy/Projects/accounting_system/LaptopLibrary/bin/Debug/netstandard2.0/LaptopLibrary.pdb
+/Users/yuriy/Projects/accounting_system/LaptopLibrary/obj/Debug/netstandard2.0/LaptopLibrary.csprojAssemblyReference.cache
+/Users/yuriy/Projects/accounting_system/LaptopLibrary/obj/Debug/netstandard2.0/LaptopLibrary.AssemblyInfoInputs.cache
+/Users/yuriy/Projects/accounting_system/LaptopLibrary/obj/Debug/netstandard2.0/LaptopLibrary.AssemblyInfo.cs
+/Users/yuriy/Projects/accounting_system/LaptopLibrary/obj/Debug/netstandard2.0/LaptopLibrary.dll
+/Users/yuriy/Projects/accounting_system/LaptopLibrary/obj/Debug/netstandard2.0/LaptopLibrary.pdb

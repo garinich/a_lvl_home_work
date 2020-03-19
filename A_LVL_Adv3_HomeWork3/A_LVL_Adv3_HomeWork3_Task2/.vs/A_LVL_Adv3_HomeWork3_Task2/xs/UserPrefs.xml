@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{355D95B3-8BF0-4D49-B923-7CCA1681D5E9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="A_LVL_Adv3_HomeWork1_DLL/A_LVL_Adv3_HomeWork3_DLL.cs">
+    <Files>
+      <File FileName="A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork3.cs" Line="66" Column="28" />
+      <File FileName="A_LVL_Adv3_HomeWork1_DLL/A_LVL_Adv3_HomeWork3_DLL.cs" Line="26" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="A_LVL_Adv3_HomeWork3_Task2" expanded="True">
+            <Node name="A_LVL_Adv3_HomeWork3" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="A_LVL_Adv3_HomeWork3_DLL" expanded="True">
+              <Node name="A_LVL_Adv3_HomeWork3_DLL.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.A__LVL__Adv3__HomeWork3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

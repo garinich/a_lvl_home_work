@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1.csproj": {}
+  },
+  "projects": {
+    "/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1.csproj",
+        "projectName": "A_LVL_Adv3_HomeWork1",
+        "projectPath": "/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1/A_LVL_Adv3_HomeWork1.csproj",
+        "packagesPath": "/Users/yuriy/.nuget/packages/",
+        "outputPath": "/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yuriy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/A_LVL_Adv3_HomeWork1_DLL.csproj": {
+                "projectPath": "/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/A_LVL_Adv3_HomeWork1_DLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/A_LVL_Adv3_HomeWork1_DLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/A_LVL_Adv3_HomeWork1_DLL.csproj",
+        "projectName": "A_LVL_Adv3_HomeWork1_DLL",
+        "projectPath": "/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/A_LVL_Adv3_HomeWork1_DLL.csproj",
+        "packagesPath": "/Users/yuriy/.nuget/packages/",
+        "outputPath": "/Users/yuriy/Projects/A_LVL_Adv3_HomeWork3/A_LVL_Adv3_HomeWork1_DLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yuriy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
